@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "NextBusIntent",
+      "slots": [
+        {
+          "name": "stop",
+          "type": "NUMBER"
+        },
+        {
+          "name": "route",
+          "type": "NUMBER"
+        }
+      ]
+    }
+  ]
+}
