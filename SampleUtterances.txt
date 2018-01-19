@@ -7,3 +7,9 @@ NextBusIntent get next arrival for {stop}
 NextBusIntent get bus for {stop}
 NextBusIntent what is the next {route} for {stop}
 NextBusIntent when is the next {route} for {stop}
+
+NextBusToIntent when is the next bus from stop {stop} to {destination}
+NextBusToIntent when is the next bus for stop {stop} to {destination}
+NextBusToIntent when is the next bus from {stop} to {destination}
+NextBusToIntent when is the next bus for {stop} to {destination}
+NextBusToIntent when is the next bus to {destination} from {stop}

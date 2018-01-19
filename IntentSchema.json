@@ -13,5 +13,18 @@
         }
       ]
     }
+    {
+      "intent": "NextBusToIntent"
+      "slots": [
+        {
+          "name": "stop",
+          "type": "NUMBER"
+        }
+        {
+          "name": "destination",
+          "type": "string"
+        }
+      ]
+    }
   ]
 }
